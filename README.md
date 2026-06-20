@@ -133,7 +133,7 @@ Looking to contribute to the **Golang ecosystem**, **developer tools**, **backen
 ### 📫 Connect
 
 <p>
-  <a href="mailto:zikry.kurniawan@cashenable.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:zikrykr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/zikry-kurniawan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
