@@ -1,6 +1,6 @@
 # Zikry Kurniawan
 
-Senior Backend Engineer based in Tangerang, Indonesia (originally from Klaten, Central Java).
+Senior Backend Engineer based in Tangerang, Indonesia (originally from Klaten, Central Java). 
 
 I've spent the last 7+ years building backend systems — mostly in Go and TypeScript. Most of my work has been around APIs, microservices, and event-driven services: the kind of systems that start from a business requirement and end up running in production. These days I'm spending a lot of time on distributed systems, performance, and observability, and I run a small side lab (JikurLabs) for experiments and SaaS ideas.
 
