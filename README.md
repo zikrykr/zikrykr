@@ -134,8 +134,7 @@ Looking to contribute to the **Golang ecosystem**, **developer tools**, **backen
 
 <p>
   <a href="mailto:zikry.kurniawan@cashenable.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- Add your real links below -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/zikry-kurniawan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center"><sub>💡 <i>Build simple systems before complex ones. Optimize only after measuring. Solve business problems, not collect technologies.</i></sub></p>
