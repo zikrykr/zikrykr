@@ -69,3 +69,5 @@ Go internals, distributed systems, OpenTelemetry, backend performance, and where
 ## Reach me
 
 [Email](mailto:zikrykr@gmail.com) · [LinkedIn](https://linkedin.com/in/zikry-kurniawan)
+
+<!-- profile -->
